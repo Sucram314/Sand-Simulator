@@ -1,0 +1,13 @@
+EMPTY = 0
+WALL = 1
+SAND = 2
+WATER = 3
+DIRT = 4
+STONE = 5
+SMOKE = 6
+FIRE = 7
+WOOD = 8
+ICE = 9
+SNOW = 10
+LAVA = 11
+SALT = 12
